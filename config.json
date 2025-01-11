@@ -1,0 +1,11 @@
+{
+    "apiKey": "your-api-key",
+    "secretKey": "your-secret-key",
+    "binance_api_key": "your-binance-api-key",
+    "binance_secret_key": "your-binance-secret-key",
+    "symbol": "BTCUSDT",
+    "interval": "1m",
+    "quantity": 0.01,
+    "profitTarget": 0.02,
+    "lossLimit": -0.01
+  }

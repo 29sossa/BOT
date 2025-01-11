@@ -1,0 +1,4 @@
+docker-compose build
+/home/leon/Desktop/yee
+docker-compose up
+
